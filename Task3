@@ -1,4 +1,4 @@
-olet a = 10;           // Number
+let a = 10;           // Number
 let b = "yogasanjay";      // String
 let c = true;         // Boolean
 let d = null;         // Null
